@@ -1,0 +1,46 @@
+body{
+    background-image: url(assets/css-pattern-by-magicpattern.png);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+.Box-container{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    position: relative;
+    top: 150px;
+    width: 50%;
+    height: 225px;
+    left: 325px;
+    padding: 25px; 
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px rgb(8, 8, 8); 
+}
+
+.button{
+    background-color: rgb(0, 132, 255);
+    border: none;
+    width: 150px;
+    height: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: white;
+}
+
+.button:hover{
+    background-color: rgb(114, 206, 248);
+    
+}
+
+.text{
+    position: relative;
+    top: 20px;
+}
+
+.Says_Quote{
+    font-size: 17px;
+}
