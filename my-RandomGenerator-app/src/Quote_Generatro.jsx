@@ -19,8 +19,9 @@ const QuoteGenerator = () => {
 
                     <p className="Says_Quote">{quote}</p>
                     
-
-                    <button className="button" onClick={getRandomQuote}> New Quote</button>
+                    <br />
+                    <br />
+                    <button className="button" onClick={getRandomQuote}><b>New Quote</b></button>
                 </div>
             </div>
       
