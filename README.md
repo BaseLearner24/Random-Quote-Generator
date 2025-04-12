@@ -1,2 +1,2 @@
 # Random-Quote-Generator
-This project is using Reactjs
+Using Reactjs to make a Random-Quote-Generator
